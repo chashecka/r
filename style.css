@@ -1,0 +1,14 @@
+body{
+  background-color: rgb(238, 210, 50);
+}
+
+header{
+  background-color: rgb(209, 172, 49);
+}
+
+img{
+  position: absolute;
+  opacity: 0.5;
+  right: 50px;
+  left: 50px;
+}
